@@ -35,7 +35,7 @@ ALGORITHM using_array
         
 
     END_FOR
-
+RETURN sum;
 END
 
 
